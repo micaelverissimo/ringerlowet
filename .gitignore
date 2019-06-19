@@ -6,10 +6,10 @@
 .DS_Store
 
 # Compiled python
-*.pyc
+python/*.pyc
 
 # IPython notebook checkpoints
-.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints/*
 
 # Data files
 data_files/*
