@@ -1,3 +1,5 @@
+__all__ = ['create_mlp_model']
+
 import numpy as np
 
 from keras.models import Sequential
