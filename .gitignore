@@ -10,6 +10,8 @@ python/*.pyc
 
 # IPython notebook checkpoints
 notebooks/.ipynb_checkpoints/*
+python/__pycache__/*
+python/.ipynb_checkpoints/*
 
 # Data files
 data_files/*
